@@ -27,6 +27,5 @@ Any identified bugs during testing were documented in the Bug_Reports/ directory
 ## Test Metrics
 Test metrics, including test execution progress, defect density, and test coverage, were collected and documented in the Test_Metrics.md file.
 
-## Acknowledgments
-Special thanks to the my advisor for review this manual testing documentation. 
+## Acknowledgments 
 Feel free to contribute, open issues, or provide feedback to make this project even better!
